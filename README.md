@@ -1,6 +1,5 @@
 # Time Series Analysis + Forecasting with Machine Learning Models
 
-Dashboard: http://3.138.224.47:8050/
 
 The Notebooks in this repository contain the Time Series Analysis and ML Models to forecast
 the Colombian Energy Market Price. 
